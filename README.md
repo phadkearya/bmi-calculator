@@ -1,4 +1,4 @@
-This is a BMI Calculator made by me by following a course on Flutter by London App Brewery
+This is a BMI Calculator made by me by following a course on Flutter by London App Brewery. The main features learnt in making this app was making custom widgets and styling them however we want.
 
 # BMI Calculator
 
